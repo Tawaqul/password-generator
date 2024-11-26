@@ -17,4 +17,4 @@ Generate strong and unique passwords with our password generator tool, built usi
 Generate a Strong Password Now!
 Click the "Generate" button to create a unique and secure password. Protect your online identity with a strong password!
 
-Generate a Password <a href"">Here!</a>
+Generate a Password <a href"https://tawaqul.github.io/password-generator/">Here!</a>
